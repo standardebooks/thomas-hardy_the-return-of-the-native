@@ -99,3 +99,9 @@ section[epub|type~="epigraph"] > *{
 	font-variant: small-caps;
 }
 /* end preface postscript */
+
+/* sign format */
+#chapter-1-5 blockquote:first-of-type{
+	font-variant: small-caps;
+}
+/* end sign format */
