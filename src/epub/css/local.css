@@ -111,9 +111,3 @@ blockquote[xml|lang]{
 	font-variant: small-caps;
 }
 /* end sign format */
-
-/* preface footer alignment */
-#preface footer > p:last-of-type{
-	text-align: initial;
-}
-/* end preface footer alignment */
