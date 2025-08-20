@@ -100,11 +100,13 @@ blockquote[xml|lang]{
 }
 /* end language styling */
 
-/* preface postscript */
-#preface-postscript header p{
+/* header */
+header{
 	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
 }
-/* end preface postscript */
+/* end header */
 
 /* sign format */
 #chapter-1-5 blockquote:first-of-type{
