@@ -103,8 +103,7 @@ blockquote[xml|lang]{
 /* header */
 header{
 	font-variant: small-caps;
-	margin: 1em;
-	text-align: center;
+	margin: 3em 0;
 }
 /* end header */
 
