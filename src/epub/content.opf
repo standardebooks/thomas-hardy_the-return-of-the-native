@@ -55,6 +55,8 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008121506</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Wessex</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
 		<dc:description id="description">A young woman longs to find a husband who can deliver her from her unexciting rural life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Return of the Native&lt;/i&gt; opens with Thomasin Yeobright returning from her wedding, which was aborted because of an error on the marriage license. She was supposed to wed Damon Wildeve, who seems ambivalent about the marriage, and still secretly longs for Eustacia Vye, a former lover.&lt;/p&gt;
