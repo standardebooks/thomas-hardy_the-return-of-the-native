@@ -66,7 +66,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/122</dc:source>
 		<dc:source>https://archive.org/details/returnofnativepo0000hard</dc:source>
-		<meta property="se:word-count">144312</meta>
+		<meta property="se:word-count">142451</meta>
 		<meta property="se:reading-ease.flesch">71.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Return_of_the_Native</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-hardy_the-return-of-the-native</meta>
