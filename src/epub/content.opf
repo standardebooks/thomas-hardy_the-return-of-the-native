@@ -85,7 +85,6 @@
 		<meta property="file-as" refines="#illustrator">Walker, Emery</meta>
 		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/n50024587</meta>
 		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
-		<meta property="display-seq" refines="#illustrator">0</meta>
 		<dc:contributor id="transcriber-1">John Hamm</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hamm, John</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
