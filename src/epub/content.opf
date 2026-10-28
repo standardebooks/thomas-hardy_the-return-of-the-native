@@ -89,6 +89,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="illustrator">Emery Walker</dc:contributor>
 		<meta property="file-as" refines="#illustrator">Walker, Emery</meta>
+		<link href="https://en.wikipedia.org/wiki/Emery_Walker" refines="#illustrator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50024587.html" refines="#illustrator" rel="schema:sameAs"/>
 		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">John Hamm</dc:contributor>
